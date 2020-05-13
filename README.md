@@ -2,10 +2,12 @@
 喜马拉雅专辑批量下载
 
 To Run: 
+```java
 Pycharm
 User Python 3
 intall requests - click on the error line and choose install
 run main
+```
 
 **xm-sign生成算法**
 
